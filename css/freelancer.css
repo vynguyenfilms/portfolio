@@ -31,6 +31,9 @@ h6 {
   text-transform: uppercase;
   font-weight: 700;
 }
+hr.space {
+  padding-bottom: 5
+}
 hr.star-light,
 hr.star-primary {
   padding: 0;
