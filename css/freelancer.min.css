@@ -72,7 +72,7 @@ header {
   background: #18BC9C;
   color: white;
 }
-header.container.top{
+header.containertop{
   padding-top: 200px;
   padding-bottom: 200px;
 }
