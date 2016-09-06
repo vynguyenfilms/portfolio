@@ -73,7 +73,7 @@ header {
   background: #18BC9C;
   color: white;
   background-size: cover;
-  background-image: url('home-bg2.jpg')
+  background-image: url("home-bg2.jpg")
 }
 header.containertop{
   padding-top: 1000px;
