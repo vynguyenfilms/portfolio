@@ -37,6 +37,7 @@ hr.star-primary {
   border: none;
   border-top: solid 5px;
   text-align: center;
+  color: black;
   max-width: 250px;
   margin: 25px auto 30px;
 }
@@ -71,6 +72,8 @@ header {
   text-align: center;
   background: #18BC9C;
   color: white;
+  background-size: cover;
+  background-image: url('home-bg2.jpg')
 }
 header.containertop{
   padding-top: 1000px;
