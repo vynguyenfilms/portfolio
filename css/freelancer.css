@@ -189,7 +189,7 @@ section h2 {
   margin: 0;
   font-size: 3em;
 }
-section.success {
+section.about {
   background: #18BC9C;
   color: white;
 }
@@ -373,45 +373,45 @@ fieldset[disabled] .btn-primary.active {
   color: #2C3E50;
   background-color: white;
 }
-.btn-success {
+.btn-about {
   color: white;
   background-color: #18BC9C;
   border-color: #18BC9C;
   font-weight: 700;
 }
-.btn-success:hover,
-.btn-success:focus,
-.btn-success:active,
-.btn-success.active,
-.open .dropdown-toggle.btn-success {
+.btn-about:hover,
+.btn-about:focus,
+.btn-about:active,
+.btn-about.active,
+.open .dropdown-toggle.btn-about {
   color: white;
   background-color: #128f76;
   border-color: #11866f;
 }
-.btn-success:active,
-.btn-success.active,
-.open .dropdown-toggle.btn-success {
+.btn-about:active,
+.btn-about.active,
+.open .dropdown-toggle.btn-about {
   background-image: none;
 }
-.btn-success.disabled,
-.btn-success[disabled],
-fieldset[disabled] .btn-success,
-.btn-success.disabled:hover,
-.btn-success[disabled]:hover,
-fieldset[disabled] .btn-success:hover,
-.btn-success.disabled:focus,
-.btn-success[disabled]:focus,
-fieldset[disabled] .btn-success:focus,
-.btn-success.disabled:active,
-.btn-success[disabled]:active,
-fieldset[disabled] .btn-success:active,
-.btn-success.disabled.active,
-.btn-success[disabled].active,
-fieldset[disabled] .btn-success.active {
+.btn-about.disabled,
+.btn-about[disabled],
+fieldset[disabled] .btn-about,
+.btn-about.disabled:hover,
+.btn-about[disabled]:hover,
+fieldset[disabled] .btn-about:hover,
+.btn-about.disabled:focus,
+.btn-about[disabled]:focus,
+fieldset[disabled] .btn-about:focus,
+.btn-about.disabled:active,
+.btn-about[disabled]:active,
+fieldset[disabled] .btn-about:active,
+.btn-about.disabled.active,
+.btn-about[disabled].active,
+fieldset[disabled] .btn-about.active {
   background-color: #18BC9C;
   border-color: #18BC9C;
 }
-.btn-success .badge {
+.btn-about .badge {
   color: #18BC9C;
   background-color: white;
 }
