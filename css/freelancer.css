@@ -233,6 +233,8 @@ section.about {
   height: auto;
   font-size: 30px;
   text-align: center;
+  vertical-align:middle;
+  line-height: 15px
   color: white;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
