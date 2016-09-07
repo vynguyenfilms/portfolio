@@ -13,6 +13,10 @@ p {
 p.small {
   font-size: 16px;
 }
+p.subtitle{
+  font-size: 16px;
+  text-transform:uppercase;
+}
 a,
 a:hover,
 a:focus,
