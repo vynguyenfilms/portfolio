@@ -97,6 +97,7 @@ header .intro-text .name {
   text-transform: uppercase;
   font-weight: 1000;
   font-size: 1.2em;
+  line-height: 500px; 
 }
 header .intro-text .skills {
   font-size: .75em;
