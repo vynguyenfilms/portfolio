@@ -6,16 +6,15 @@
 body {
   font-family: 'Lato','Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
-  font-size: 20px
 }
 p {
-  font-size: 80%;
+  font-size: 20px;
 }
 p.small {
-  font-size: 60%;
+  font-size: 16px;
 }
 p.subtitle{
-  font-size: 80%;
+  font-size: 16px;
   text-transform:uppercase;
 }
 a,
@@ -97,10 +96,10 @@ header .intro-text .name {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 1000;
-  font-size: 150%;
+  font-size: 1.2em;
 }
 header .intro-text .skills {
-  font-size: 100%;
+  font-size: .75em;
   font-weight: 400;
 }
 @media (min-width: 768px) {
