@@ -233,11 +233,7 @@ section.about {
   height: auto;
   font-size: 30px;
   text-align: center;
-  top: 50%;
   color: white;
-}
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-  margin-top: -12px;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
