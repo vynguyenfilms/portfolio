@@ -140,7 +140,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #E5C39E
+  color: red
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
