@@ -316,11 +316,11 @@ footer .footer-above {
   background-color: #2C3E50;
 }
 footer .footer-col {
-  margin-bottom: 50px;
+  margin-bottom: 2000px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color: black;
 }
 .btn-outline {
   color: white;
