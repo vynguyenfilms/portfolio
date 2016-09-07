@@ -229,13 +229,11 @@ section.about {
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
   position: absolute;
-  width: 100%;
-  height: 20px;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   top: 50%;
   margin-top: -12px;
-  color: black;
+  color: white;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
   margin-top: -12px;
