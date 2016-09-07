@@ -219,7 +219,7 @@ section.about {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background: black; 
+  background: rgba(0, 0, 0, 1); 
   position: absolute;
   width: 100%;
   height: 100%;
