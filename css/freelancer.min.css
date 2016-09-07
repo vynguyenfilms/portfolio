@@ -43,7 +43,7 @@ hr.star-primary {
 }
 hr.star-light:after,
 hr.star-primary:after {
-  content: "\f005";
+  content: "\f10c";
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
@@ -167,7 +167,7 @@ header .intro-text .skills {
 }
 @media (min-width: 768px) {
   .navbar-custom {
-    padding: 25px 0;
+    padding: 15px 0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
     transition: padding 0.3s;
@@ -235,7 +235,7 @@ section.about {
   text-align: center;
   top: 50%;
   margin-top: -12px;
-  color: white;
+  color: black;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
   margin-top: -12px;
