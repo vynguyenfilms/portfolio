@@ -415,8 +415,8 @@ fieldset[disabled] .btn-about:active,
 .btn-about.disabled.active,
 .btn-about[disabled].active,
 fieldset[disabled] .btn-about.active {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color:  #D6B692;
+  border-color: #D6B692;
 }
 .btn-about .badge {
   color: #18BC9C;
